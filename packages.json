@@ -78,6 +78,45 @@
                 "type": "library"
             }
         },
+        "m14t/m14tStorageEnginePlugin": {
+            "dev-master": {
+                "name": "m14t/m14tStorageEnginePlugin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://svn.github.com/m14t/m14tStorageEnginePlugin",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "symfony/sfDoctrineGuardPlugin": {
+            "dev-trunk": {
+                "name": "symfony/sfDoctrineGuardPlugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "http://svn.symfony-project.com/plugins/sfDoctrineGuardPlugin",
+                    "reference": "trunk"
+                },
+                "type": "library"
+            }
+        },
+        "symfony/sfThumbnailPlugin": {
+            "dev-1.3": {
+                "name": "symfony/sfThumbnailPlugin",
+                "version": "dev-1.3",
+                "version_normalized": "dev-1.3",
+                "source": {
+                    "type": "svn",
+                    "url": "http://svn.symfony-project.com/plugins/sfThumbnailPlugin",
+                    "reference": "branches/1.3"
+                },
+                "type": "library"
+            }
+        },
         "symfony/symfony1": {
             "1.4.18": {
                 "name": "symfony/symfony1",
@@ -101,6 +140,32 @@
                     "type": "svn",
                     "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/trunk",
                     "reference": "cwThumbnailPlugin"
+                },
+                "type": "library"
+            }
+        },
+        "ua5/sfS3Plugin": {
+            "dev-trunk": {
+                "name": "ua5/sfS3Plugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/trunk/sfS3Plugin",
+                    "reference": "trunk"
+                },
+                "type": "library"
+            }
+        },
+        "ua5/ua5AdminThemePlugin": {
+            "dev-trunk": {
+                "name": "ua5/ua5AdminThemePlugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://useallfive.svn.beanstalkapp.com/ua5_admin/trunk/plugins",
+                    "reference": "ua5AdminThemePlugin"
                 },
                 "type": "library"
             }
