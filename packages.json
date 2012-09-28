@@ -1,0 +1,95 @@
+{
+    "packages": {
+        "m14t/csDoctrineActAsGeolocatablePlugin": {
+            "dev-master": {
+                "name": "m14t/csDoctrineActAsGeolocatablePlugin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/m14t/csDoctrineActAsGeolocatablePlugin",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "m14t/csDoctrineActAsSortablePlugin": {
+            "dev-master": {
+                "name": "m14t/csDoctrineActAsSortablePlugin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/m14t/csDoctrineActAsSortablePlugin",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "m14t/m14tCommissionJunctionPlugin": {
+            "dev-trunk": {
+                "name": "m14t/m14tCommissionJunctionPlugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/trunk/m14tCommissionJunctionPlugin",
+                    "reference": "trunk"
+                },
+                "type": "library"
+            }
+        },
+        "m14t/m14tCurlPlugin": {
+            "dev-trunk": {
+                "name": "m14t/m14tCurlPlugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/trunk/m14tCurlPlugin",
+                    "reference": "trunk"
+                },
+                "type": "library"
+            }
+        },
+        "m14t/m14tDoctrineRecordPlugin": {
+            "dev-master": {
+                "name": "m14t/m14tDoctrineRecordPlugin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/m14t/m14tDoctrineRecordPlugin",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "m14t/m14tGoogleGeoCodePlugin": {
+            "dev-trunk": {
+                "name": "m14t/m14tGoogleGeoCodePlugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/trunk",
+                    "reference": "m14tGoogleGeoCodePlugin"
+                },
+                "type": "library"
+            }
+        },
+        "ua5/cwThumbnailPlugin": {
+            "dev-trunk": {
+                "name": "ua5/cwThumbnailPlugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/trunk",
+                    "reference": "cwThumbnailPlugin"
+                },
+                "type": "library"
+            }
+        }
+    }
+}
