@@ -36,6 +36,9 @@
                     "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/trunk/m14tCommissionJunctionPlugin",
                     "reference": "trunk"
                 },
+                "require": {
+                    "m14t/m14tcurlplugin": "dev-trunk"
+                },
                 "type": "library"
             }
         },
