@@ -1,0 +1,23 @@
+{
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://local/github/composer-repositories/"
+    }
+  ],
+  "require": {
+    "m14t/cs-doctrine-act-as-geolocatable-plugin": "dev-master",
+    "m14t/cs-doctrine-act-as-sortable-plugin": "dev-master",
+    "m14t/m14t-commission-junction-plugin": "dev-trunk",
+    "m14t/m14t-doctrine-record-plugin": "dev-master",
+    "m14t/m14t-google-geo-code-plugin": "dev-trunk",
+    "m14t/m14t-storage-engine-plugin": "dev-master",
+    "symfony/sf-doctrine-guard-plugin": "dev-trunk",
+    "symfony/sf-thumbnail-plugin": "dev-1.3",
+    "symfony/symfony1": "1.4.*",
+    "ua5/cw-thumbnail-plugin": "dev-trunk",
+    "ua5/sf-s3-plugin": "dev-trunk",
+    "ua5/ua5-admin-theme-plugin": "dev-trunk"
+  },
+  "minimum-stability": "dev"
+}
