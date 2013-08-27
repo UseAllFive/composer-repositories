@@ -686,23 +686,38 @@
                 "type": "library"
             }
         },
-        "UseAllFive/admin-theme-plugin": {
+        "useallfive/admin-theme-plugin": {
             "dev-master": {
-                "name": "UseAllFive/admin-theme-plugin",
+                "name": "useallfive/admin-theme-plugin",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "svn",
-                    "url": "https://useallfive.svn.beanstalkapp.com/ua5_admin/trunk",
-                    "reference": "plugins/ua5AdminThemePlugin"
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin",
+                    "reference": "3318f7cf4e4d01d28e46a3ab991e3f670bc13c53"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin/zipball/3318f7cf4e4d01d28e46a3ab991e3f670bc13c53",
+                    "reference": "3318f7cf4e4d01d28e46a3ab991e3f670bc13c53",
+                    "shasum": ""
                 },
                 "require": {
                     "composer/installers": "1.x",
                     "symfony/sf-thumbnail-plugin": "dev-master"
                 },
+                "time": "2013-08-27 00:21:12",
                 "type": "symfony1-plugin",
                 "extra": {
                     "installer-name": "ua5AdminThemePlugin"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "A Symfony 1.x Admin Generator Theme.",
+                "support": {
+                    "source": "https://github.com/UseAllFive/ua5AdminThemePlugin/tree/master",
+                    "issues": "https://github.com/UseAllFive/ua5AdminThemePlugin/issues"
                 }
             }
         },
