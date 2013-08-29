@@ -770,19 +770,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UseAllFive/ua5AdminThemePlugin",
-                    "reference": "3318f7cf4e4d01d28e46a3ab991e3f670bc13c53"
+                    "reference": "a4750536841de8e3a3738c4786598d2ce283c5f3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin/zipball/3318f7cf4e4d01d28e46a3ab991e3f670bc13c53",
-                    "reference": "3318f7cf4e4d01d28e46a3ab991e3f670bc13c53",
+                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin/zipball/a4750536841de8e3a3738c4786598d2ce283c5f3",
+                    "reference": "a4750536841de8e3a3738c4786598d2ce283c5f3",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "1.x",
                     "symfony/sf-thumbnail-plugin": "dev-master"
                 },
-                "time": "2013-08-27 00:21:12",
+                "time": "2013-08-29 03:28:23",
                 "type": "symfony1-plugin",
                 "extra": {
                     "installer-name": "ua5AdminThemePlugin"
