@@ -1,0 +1,250 @@
+{
+    "name": "UseAllFive.com's Repository",
+    "homepage": "http://useallfive.github.io/composer-repositories/",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/composer/installers"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/m14t/Swiftmailer-Transport--AWS-SES"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "google/google-api-php-client",
+                "require": {
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "http://google-api-php-client.googlecode.com/svn",
+                    "reference": "trunk"
+                },
+                "type": "library",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "extra": {
+                    "installer-name": "m14tCommissionJunctionPlugin"
+                 },
+                "name": "m14t/commission-junction-plugin",
+                "require": {
+                    "composer/installers": "1.x",
+                    "m14t/curl-plugin": "dev-master"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/trunk/m14tCommissionJunctionPlugin",
+                    "reference": "trunk"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "extra": {
+                    "installer-name": "m14tCurlPlugin"
+                 },
+                "name": "m14t/curl-plugin",
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/trunk/m14tCurlPlugin",
+                    "reference": "trunk"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "extra": {
+                    "installer-name": "m14tDoctrineRecordPlugin"
+                 },
+                "name": "m14t/doctrine-record-plugin",
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/m14t/m14tDoctrineRecordPlugin",
+                    "reference": "master"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "extra": {
+                    "installer-name": "m14tStorageEnginePlugin"
+                 },
+                "name": "m14t/storage-engine-plugin",
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/m14tStorageEnginePlugin",
+                    "reference": "master"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "m14t/cs-doctrine-act-as-geolocatable-plugin",
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/m14t/csDoctrineActAsGeolocatablePlugin",
+                    "reference": "master"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "m14t/cs-doctrine-act-as-sortable-plugin",
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/m14t/csDoctrineActAsSortablePlugin",
+                    "reference": "master"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "symfony/symfony1",
+                "version": "1.4.18",
+                "dist": {
+                    "url": "https://github.com/symfony/symfony1/zipball/v1.4.18",
+                    "type": "zip"
+                },
+                "provide": {
+                    "swiftmailer/swiftmailer": "4.1.0-DEV"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "symfony/symfony1",
+                "version": "1.4.20",
+                "dist": {
+                    "url": "https://github.com/symfony/symfony1/zipball/v1.4.20",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "symfony/sf-doctrine-guard-plugin",
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "http://svn.symfony-project.com/plugins/sfDoctrineGuardPlugin",
+                    "reference": "trunk"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "symfony/sf-form-extra-plugin",
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "http://svn.symfony-project.com/plugins/sfFormExtraPlugin",
+                    "reference": "branches/1.3"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "symfony/sf-thumbnail-plugin",
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "http://svn.symfony-project.com/plugins/sfThumbnailPlugin/",
+                    "reference": "branches/1.3"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "UseAllFive/cw-thumbnail-plugin",
+                "require": {
+                    "composer/installers": "1.x",
+                    "symfony/sf-thumbnail-plugin": "dev-master"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/",
+                    "reference": "trunk/cwThumbnailPlugin"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "UseAllFive/sf-s3-plugin",
+                "require": {
+                    "composer/installers": "1.x",
+                    "symfony/sf-thumbnail-plugin": "dev-master"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https://useallfive.svn.beanstalkapp.com/symfony_plugins/trunk/sfS3Plugin",
+                    "reference": "trunk"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/UseAllFive/ua5AdminThemePlugin"
+        }
+    ],
+    "require-all": true
+}
