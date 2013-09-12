@@ -194,6 +194,22 @@
         {
             "type": "package",
             "package": {
+                "name": "symfony/sf-task-extra-plugin",
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "http://svn.symfony-project.com/plugins/sfTaskExtraPlugin/",
+                    "reference": "trunk"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "symfony/sf-thumbnail-plugin",
                 "require": {
                     "composer/installers": "1.x"
