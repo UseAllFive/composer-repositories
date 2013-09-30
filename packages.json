@@ -861,20 +861,21 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin",
-                    "reference": "6c8221916638efceb5c558bceb354151c1119d88"
+                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin.git",
+                    "reference": "bc1532d7b4d6334c3dca7c0cd4c5b925b0a8db58"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin/zipball/6c8221916638efceb5c558bceb354151c1119d88",
-                    "reference": "6c8221916638efceb5c558bceb354151c1119d88",
+                    "url": "https://api.github.com/repos/UseAllFive/ua5AdminThemePlugin/zipball/bc1532d7b4d6334c3dca7c0cd4c5b925b0a8db58",
+                    "reference": "bc1532d7b4d6334c3dca7c0cd4c5b925b0a8db58",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "1.x",
+                    "symfony/sf-task-extra-plugin": "dev-master",
                     "symfony/sf-thumbnail-plugin": "dev-master"
                 },
-                "time": "2013-09-11 22:39:28",
+                "time": "2013-09-30 20:01:39",
                 "type": "symfony1-plugin",
                 "extra": {
                     "installer-name": "ua5AdminThemePlugin"
@@ -888,26 +889,94 @@
                     "issues": "https://github.com/UseAllFive/ua5AdminThemePlugin/issues"
                 }
             },
-            "dev-iss-kneon-68-admin-count-function": {
+            "dev-add_value_config_option": {
                 "name": "useallfive/admin-theme-plugin",
-                "version": "dev-iss-kneon-68-admin-count-function",
-                "version_normalized": "dev-iss-kneon-68-admin-count-function",
+                "version": "dev-add_value_config_option",
+                "version_normalized": "dev-add_value_config_option",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin",
-                    "reference": "a3bedc4ad08796667740a1f7fd01d6822349a2a5"
+                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin.git",
+                    "reference": "a1a8d2676bdd72a92769ca76e207dac3b35321da"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin/zipball/a3bedc4ad08796667740a1f7fd01d6822349a2a5",
-                    "reference": "a3bedc4ad08796667740a1f7fd01d6822349a2a5",
+                    "url": "https://api.github.com/repos/UseAllFive/ua5AdminThemePlugin/zipball/a1a8d2676bdd72a92769ca76e207dac3b35321da",
+                    "reference": "a1a8d2676bdd72a92769ca76e207dac3b35321da",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "1.x",
                     "symfony/sf-thumbnail-plugin": "dev-master"
                 },
-                "time": "2013-09-03 18:04:28",
+                "time": "2013-09-26 22:23:00",
+                "type": "symfony1-plugin",
+                "extra": {
+                    "installer-name": "ua5AdminThemePlugin"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "A Symfony 1.x Admin Generator Theme.",
+                "support": {
+                    "source": "https://github.com/UseAllFive/ua5AdminThemePlugin/tree/add_value_config_option",
+                    "issues": "https://github.com/UseAllFive/ua5AdminThemePlugin/issues"
+                }
+            },
+            "dev-invalid-json-check": {
+                "name": "useallfive/admin-theme-plugin",
+                "version": "dev-invalid-json-check",
+                "version_normalized": "dev-invalid-json-check",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin.git",
+                    "reference": "618901f291e5e0725c21f6506ecba8f48ab65066"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/ua5AdminThemePlugin/zipball/618901f291e5e0725c21f6506ecba8f48ab65066",
+                    "reference": "618901f291e5e0725c21f6506ecba8f48ab65066",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "1.x",
+                    "symfony/sf-task-extra-plugin": "dev-master",
+                    "symfony/sf-thumbnail-plugin": "dev-master"
+                },
+                "time": "2013-09-12 07:01:45",
+                "type": "symfony1-plugin",
+                "extra": {
+                    "installer-name": "ua5AdminThemePlugin"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "A Symfony 1.x Admin Generator Theme.",
+                "support": {
+                    "source": "https://github.com/UseAllFive/ua5AdminThemePlugin/tree/invalid-json-check",
+                    "issues": "https://github.com/UseAllFive/ua5AdminThemePlugin/issues"
+                }
+            },
+            "dev-iss-kneon-68-admin-count-function": {
+                "name": "useallfive/admin-theme-plugin",
+                "version": "dev-iss-kneon-68-admin-count-function",
+                "version_normalized": "dev-iss-kneon-68-admin-count-function",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin.git",
+                    "reference": "f4a9641ff833d1bad9d4ba3e5300c9481cff1419"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/ua5AdminThemePlugin/zipball/f4a9641ff833d1bad9d4ba3e5300c9481cff1419",
+                    "reference": "f4a9641ff833d1bad9d4ba3e5300c9481cff1419",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "1.x",
+                    "symfony/sf-task-extra-plugin": "dev-master",
+                    "symfony/sf-thumbnail-plugin": "dev-master"
+                },
+                "time": "2013-09-16 14:11:25",
                 "type": "symfony1-plugin",
                 "extra": {
                     "installer-name": "ua5AdminThemePlugin"
@@ -918,6 +987,40 @@
                 "description": "A Symfony 1.x Admin Generator Theme.",
                 "support": {
                     "source": "https://github.com/UseAllFive/ua5AdminThemePlugin/tree/iss-kneon-68-admin-count-function",
+                    "issues": "https://github.com/UseAllFive/ua5AdminThemePlugin/issues"
+                }
+            },
+            "dev-tests": {
+                "name": "useallfive/admin-theme-plugin",
+                "version": "dev-tests",
+                "version_normalized": "dev-tests",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin.git",
+                    "reference": "7897ee4c1fa2d29acbc47477524b865a4738f5b3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/ua5AdminThemePlugin/zipball/7897ee4c1fa2d29acbc47477524b865a4738f5b3",
+                    "reference": "7897ee4c1fa2d29acbc47477524b865a4738f5b3",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "1.x",
+                    "symfony/sf-task-extra-plugin": "dev-master",
+                    "symfony/sf-thumbnail-plugin": "dev-master"
+                },
+                "time": "2013-09-12 06:26:10",
+                "type": "symfony1-plugin",
+                "extra": {
+                    "installer-name": "ua5AdminThemePlugin"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "A Symfony 1.x Admin Generator Theme.",
+                "support": {
+                    "source": "https://github.com/UseAllFive/ua5AdminThemePlugin/tree/tests",
                     "issues": "https://github.com/UseAllFive/ua5AdminThemePlugin/issues"
                 }
             }
