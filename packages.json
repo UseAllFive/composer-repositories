@@ -7,13 +7,13 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/composer/installers",
-                    "reference": "v1.0.0"
+                    "url": "https://github.com/composer/installers.git",
+                    "reference": "eae5f43226c8a3c7b98887c34287772cf227c275"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/composer/installers/zipball/v1.0.0",
-                    "reference": "v1.0.0",
+                    "url": "https://api.github.com/repos/composer/installers/zipball/eae5f43226c8a3c7b98887c34287772cf227c275",
+                    "reference": "eae5f43226c8a3c7b98887c34287772cf227c275",
                     "shasum": ""
                 },
                 "replace": {
@@ -45,23 +45,23 @@
                 "description": "A multi-framework Composer library installer",
                 "homepage": "http://composer.github.com/installers/",
                 "keywords": [
-                    "installer",
                     "cakephp",
-                    "laravel",
+                    "codeigniter",
+                    "drupal",
+                    "fuelphp",
+                    "installer",
+                    "joomla",
                     "kohana",
+                    "laravel",
                     "li3",
                     "lithium",
                     "mako",
-                    "fuelphp",
-                    "codeigniter",
-                    "symfony",
                     "phpbb",
                     "ppi",
-                    "joomla",
+                    "silverstripe",
+                    "symfony",
                     "wordpress",
-                    "drupal",
-                    "zend",
-                    "silverstripe"
+                    "zend"
                 ],
                 "support": {
                     "source": "https://github.com/composer/installers/tree/v1.0.0",
@@ -74,13 +74,13 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/composer/installers",
-                    "reference": "v1.0.1"
+                    "url": "https://github.com/composer/installers.git",
+                    "reference": "a04e254642d88a9c21e70261072ad486ac675251"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/composer/installers/zipball/v1.0.1",
-                    "reference": "v1.0.1",
+                    "url": "https://api.github.com/repos/composer/installers/zipball/a04e254642d88a9c21e70261072ad486ac675251",
+                    "reference": "a04e254642d88a9c21e70261072ad486ac675251",
                     "shasum": ""
                 },
                 "replace": {
@@ -113,26 +113,26 @@
                 "description": "A multi-framework Composer library installer",
                 "homepage": "http://composer.github.com/installers/",
                 "keywords": [
-                    "installer",
+                    "TYPO3 Flow",
+                    "TYPO3 Neos",
+                    "agl",
                     "cakephp",
-                    "laravel",
+                    "codeigniter",
+                    "drupal",
+                    "fuelphp",
+                    "installer",
+                    "joomla",
                     "kohana",
+                    "laravel",
                     "li3",
                     "lithium",
                     "mako",
-                    "fuelphp",
-                    "codeigniter",
-                    "symfony",
                     "phpbb",
                     "ppi",
-                    "joomla",
-                    "wordpress",
-                    "drupal",
-                    "zend",
                     "silverstripe",
-                    "agl",
-                    "TYPO3 Flow",
-                    "TYPO3 Neos"
+                    "symfony",
+                    "wordpress",
+                    "zend"
                 ],
                 "support": {
                     "source": "https://github.com/composer/installers/tree/v1.0.1",
@@ -145,13 +145,13 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/composer/installers",
-                    "reference": "v1.0.2"
+                    "url": "https://github.com/composer/installers.git",
+                    "reference": "ddc8202188caa5b3bdfdeee365c265075f92c450"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/composer/installers/zipball/v1.0.2",
-                    "reference": "v1.0.2",
+                    "url": "https://api.github.com/repos/composer/installers/zipball/ddc8202188caa5b3bdfdeee365c265075f92c450",
+                    "reference": "ddc8202188caa5b3bdfdeee365c265075f92c450",
                     "shasum": ""
                 },
                 "replace": {
@@ -187,26 +187,26 @@
                 "description": "A multi-framework Composer library installer",
                 "homepage": "http://composer.github.com/installers/",
                 "keywords": [
-                    "installer",
+                    "TYPO3 Flow",
+                    "TYPO3 Neos",
+                    "agl",
                     "cakephp",
-                    "laravel",
+                    "codeigniter",
+                    "drupal",
+                    "fuelphp",
+                    "installer",
+                    "joomla",
                     "kohana",
+                    "laravel",
                     "li3",
                     "lithium",
                     "mako",
-                    "fuelphp",
-                    "codeigniter",
-                    "symfony",
                     "phpbb",
                     "ppi",
-                    "joomla",
-                    "wordpress",
-                    "drupal",
-                    "zend",
                     "silverstripe",
-                    "agl",
-                    "TYPO3 Flow",
-                    "TYPO3 Neos"
+                    "symfony",
+                    "wordpress",
+                    "zend"
                 ],
                 "support": {
                     "source": "https://github.com/composer/installers/tree/v1.0.2",
@@ -219,13 +219,13 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/composer/installers",
-                    "reference": "v1.0.3"
+                    "url": "https://github.com/composer/installers.git",
+                    "reference": "85e44424e7c64421904806b06a36244e52cd90f6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/composer/installers/zipball/v1.0.3",
-                    "reference": "v1.0.3",
+                    "url": "https://api.github.com/repos/composer/installers/zipball/85e44424e7c64421904806b06a36244e52cd90f6",
+                    "reference": "85e44424e7c64421904806b06a36244e52cd90f6",
                     "shasum": ""
                 },
                 "replace": {
@@ -261,27 +261,27 @@
                 "description": "A multi-framework Composer library installer",
                 "homepage": "http://composer.github.com/installers/",
                 "keywords": [
-                    "installer",
+                    "TYPO3 Flow",
+                    "TYPO3 Neos",
+                    "agl",
                     "cakephp",
-                    "laravel",
+                    "codeigniter",
+                    "drupal",
+                    "fuelphp",
+                    "installer",
+                    "joomla",
                     "kohana",
+                    "laravel",
                     "li3",
                     "lithium",
                     "mako",
-                    "fuelphp",
-                    "codeigniter",
-                    "symfony",
                     "phpbb",
                     "ppi",
-                    "joomla",
-                    "wordpress",
-                    "drupal",
-                    "yii",
-                    "zend",
                     "silverstripe",
-                    "agl",
-                    "TYPO3 Flow",
-                    "TYPO3 Neos"
+                    "symfony",
+                    "wordpress",
+                    "yii",
+                    "zend"
                 ],
                 "support": {
                     "source": "https://github.com/composer/installers/tree/v1.0.3",
@@ -294,13 +294,13 @@
                 "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/composer/installers",
-                    "reference": "v1.0.4"
+                    "url": "https://github.com/composer/installers.git",
+                    "reference": "addefce3784a3005e0713726190d9c0e8cbac3d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/composer/installers/zipball/v1.0.4",
-                    "reference": "v1.0.4",
+                    "url": "https://api.github.com/repos/composer/installers/zipball/addefce3784a3005e0713726190d9c0e8cbac3d2",
+                    "reference": "addefce3784a3005e0713726190d9c0e8cbac3d2",
                     "shasum": ""
                 },
                 "replace": {
@@ -336,27 +336,27 @@
                 "description": "A multi-framework Composer library installer",
                 "homepage": "http://composer.github.com/installers/",
                 "keywords": [
-                    "installer",
+                    "TYPO3 Flow",
+                    "TYPO3 Neos",
+                    "agl",
                     "cakephp",
-                    "laravel",
+                    "codeigniter",
+                    "drupal",
+                    "fuelphp",
+                    "installer",
+                    "joomla",
                     "kohana",
+                    "laravel",
                     "li3",
                     "lithium",
                     "mako",
-                    "fuelphp",
-                    "codeigniter",
-                    "symfony",
+                    "modulework",
                     "phpbb",
                     "ppi",
-                    "joomla",
-                    "wordpress",
-                    "drupal",
-                    "zend",
                     "silverstripe",
-                    "agl",
-                    "TYPO3 Flow",
-                    "TYPO3 Neos",
-                    "modulework"
+                    "symfony",
+                    "wordpress",
+                    "zend"
                 ],
                 "support": {
                     "source": "https://github.com/composer/installers/tree/v1.0.4",
@@ -369,13 +369,13 @@
                 "version_normalized": "1.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/composer/installers",
-                    "reference": "v1.0.5"
+                    "url": "https://github.com/composer/installers.git",
+                    "reference": "5bad5563431576e1b318c7326c0e61c6567000bd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/composer/installers/zipball/v1.0.5",
-                    "reference": "v1.0.5",
+                    "url": "https://api.github.com/repos/composer/installers/zipball/5bad5563431576e1b318c7326c0e61c6567000bd",
+                    "reference": "5bad5563431576e1b318c7326c0e61c6567000bd",
                     "shasum": ""
                 },
                 "replace": {
@@ -411,27 +411,27 @@
                 "description": "A multi-framework Composer library installer",
                 "homepage": "http://composer.github.com/installers/",
                 "keywords": [
-                    "installer",
+                    "TYPO3 Flow",
+                    "TYPO3 Neos",
+                    "agl",
                     "cakephp",
-                    "laravel",
+                    "codeigniter",
+                    "drupal",
+                    "fuelphp",
+                    "installer",
+                    "joomla",
                     "kohana",
+                    "laravel",
                     "li3",
                     "lithium",
                     "mako",
-                    "fuelphp",
-                    "codeigniter",
-                    "symfony",
+                    "modulework",
                     "phpbb",
                     "ppi",
-                    "joomla",
-                    "wordpress",
-                    "drupal",
-                    "zend",
                     "silverstripe",
-                    "agl",
-                    "TYPO3 Flow",
-                    "TYPO3 Neos",
-                    "modulework"
+                    "symfony",
+                    "wordpress",
+                    "zend"
                 ],
                 "support": {
                     "source": "https://github.com/composer/installers/tree/v1.0.5",
@@ -444,13 +444,13 @@
                 "version_normalized": "1.0.6.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/composer/installers",
-                    "reference": "v1.0.6"
+                    "url": "https://github.com/composer/installers.git",
+                    "reference": "b3bd071ea114a57212c75aa6a2eef5cfe0cc798f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/composer/installers/zipball/v1.0.6",
-                    "reference": "v1.0.6",
+                    "url": "https://api.github.com/repos/composer/installers/zipball/b3bd071ea114a57212c75aa6a2eef5cfe0cc798f",
+                    "reference": "b3bd071ea114a57212c75aa6a2eef5cfe0cc798f",
                     "shasum": ""
                 },
                 "replace": {
@@ -486,31 +486,31 @@
                 "description": "A multi-framework Composer library installer",
                 "homepage": "http://composer.github.com/installers/",
                 "keywords": [
-                    "installer",
+                    "TYPO3 CMS",
+                    "TYPO3 Flow",
+                    "TYPO3 Neos",
+                    "agl",
                     "cakephp",
-                    "laravel",
+                    "codeigniter",
+                    "drupal",
+                    "fuelphp",
+                    "installer",
+                    "joomla",
                     "kohana",
+                    "laravel",
                     "li3",
                     "lithium",
                     "mako",
-                    "fuelphp",
-                    "codeigniter",
-                    "symfony",
+                    "modulework",
                     "phpbb",
                     "ppi",
-                    "joomla",
-                    "wordpress",
-                    "drupal",
-                    "zend",
                     "silverstripe",
-                    "agl",
-                    "TYPO3 Flow",
-                    "TYPO3 Neos",
-                    "modulework",
-                    "TYPO3 CMS"
+                    "symfony",
+                    "wordpress",
+                    "zend"
                 ],
                 "support": {
-                    "source": "https://github.com/composer/installers/tree/master",
+                    "source": "https://github.com/composer/installers/tree/v1.0.6",
                     "issues": "https://github.com/composer/installers/issues"
                 }
             },
@@ -520,13 +520,13 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/composer/installers",
-                    "reference": "v1.0.6"
+                    "url": "https://github.com/composer/installers.git",
+                    "reference": "46085247845046fadfdbf1b3d8ac851fa90a48d5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/composer/installers/zipball/v1.0.6",
-                    "reference": "v1.0.6",
+                    "url": "https://api.github.com/repos/composer/installers/zipball/46085247845046fadfdbf1b3d8ac851fa90a48d5",
+                    "reference": "46085247845046fadfdbf1b3d8ac851fa90a48d5",
                     "shasum": ""
                 },
                 "replace": {
@@ -536,7 +536,7 @@
                     "composer/composer": "1.0.*@dev",
                     "phpunit/phpunit": "3.7.*"
                 },
-                "time": "2013-08-20 04:37:09",
+                "time": "2013-10-11 03:22:56",
                 "type": "composer-installer",
                 "extra": {
                     "class": "Composer\\Installers\\Installer",
@@ -562,28 +562,28 @@
                 "description": "A multi-framework Composer library installer",
                 "homepage": "http://composer.github.com/installers/",
                 "keywords": [
-                    "installer",
+                    "TYPO3 CMS",
+                    "TYPO3 Flow",
+                    "TYPO3 Neos",
+                    "agl",
                     "cakephp",
-                    "laravel",
+                    "codeigniter",
+                    "drupal",
+                    "fuelphp",
+                    "installer",
+                    "joomla",
                     "kohana",
+                    "laravel",
                     "li3",
                     "lithium",
                     "mako",
-                    "fuelphp",
-                    "codeigniter",
-                    "symfony",
+                    "modulework",
                     "phpbb",
                     "ppi",
-                    "joomla",
-                    "wordpress",
-                    "drupal",
-                    "zend",
                     "silverstripe",
-                    "agl",
-                    "TYPO3 Flow",
-                    "TYPO3 Neos",
-                    "modulework",
-                    "TYPO3 CMS"
+                    "symfony",
+                    "wordpress",
+                    "zend"
                 ],
                 "support": {
                     "source": "https://github.com/composer/installers/tree/master",
@@ -605,18 +605,64 @@
             }
         },
         "jmhobbs/swiftmailer-transport-aws-ses": {
+            "0.9.0": {
+                "name": "jmhobbs/swiftmailer-transport-aws-ses",
+                "version": "0.9.0",
+                "version_normalized": "0.9.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/Swiftmailer-Transport--AWS-SES.git",
+                    "reference": "3792f44a656104d8f657c235913c5c8c3f1ce8d2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/Swiftmailer-Transport--AWS-SES/zipball/3792f44a656104d8f657c235913c5c8c3f1ce8d2",
+                    "reference": "3792f44a656104d8f657c235913c5c8c3f1ce8d2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.2.0",
+                    "swiftmailer/swiftmailer": "4.*"
+                },
+                "time": "2012-10-30 22:14:25",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "": "classes/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "John Hobbs",
+                        "email": "john@velvetcache.org"
+                    }
+                ],
+                "description": "Add AWS SES support to Swiftmailer",
+                "keywords": [
+                    "AWS",
+                    "SES",
+                    "email",
+                    "swiftmailer"
+                ],
+                "support": {
+                    "source": "https://github.com/UseAllFive/Swiftmailer-Transport--AWS-SES/tree/0.9.0"
+                }
+            },
             "dev-master": {
                 "name": "jmhobbs/swiftmailer-transport-aws-ses",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/m14t/Swiftmailer-Transport--AWS-SES",
+                    "url": "https://github.com/UseAllFive/Swiftmailer-Transport--AWS-SES.git",
                     "reference": "ecdf9ec440d43ff6b58baa0226a5aeac6fb7fb8b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/m14t/Swiftmailer-Transport--AWS-SES/zipball/ecdf9ec440d43ff6b58baa0226a5aeac6fb7fb8b",
+                    "url": "https://api.github.com/repos/UseAllFive/Swiftmailer-Transport--AWS-SES/zipball/ecdf9ec440d43ff6b58baa0226a5aeac6fb7fb8b",
                     "reference": "ecdf9ec440d43ff6b58baa0226a5aeac6fb7fb8b",
                     "shasum": ""
                 },
@@ -642,13 +688,59 @@
                 ],
                 "description": "Add AWS SES support to Swiftmailer",
                 "keywords": [
-                    "email",
-                    "swiftmailer",
+                    "AWS",
                     "SES",
-                    "AWS"
+                    "email",
+                    "swiftmailer"
                 ],
                 "support": {
-                    "source": "https://github.com/m14t/Swiftmailer-Transport--AWS-SES/tree/master"
+                    "source": "https://github.com/UseAllFive/Swiftmailer-Transport--AWS-SES/tree/master"
+                }
+            },
+            "dev-check-debug-function-is-callable": {
+                "name": "jmhobbs/swiftmailer-transport-aws-ses",
+                "version": "dev-check-debug-function-is-callable",
+                "version_normalized": "dev-check-debug-function-is-callable",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/Swiftmailer-Transport--AWS-SES.git",
+                    "reference": "0190b0cb2333d6fe9e00773c8a3b451f8e4b7451"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/Swiftmailer-Transport--AWS-SES/zipball/0190b0cb2333d6fe9e00773c8a3b451f8e4b7451",
+                    "reference": "0190b0cb2333d6fe9e00773c8a3b451f8e4b7451",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.2.0",
+                    "swiftmailer/swiftmailer": "4.*"
+                },
+                "time": "2013-10-18 22:33:41",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "": "classes/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "John Hobbs",
+                        "email": "john@velvetcache.org"
+                    }
+                ],
+                "description": "Add AWS SES support to Swiftmailer",
+                "keywords": [
+                    "AWS",
+                    "SES",
+                    "email",
+                    "swiftmailer"
+                ],
+                "support": {
+                    "source": "https://github.com/UseAllFive/Swiftmailer-Transport--AWS-SES/tree/check-debug-function-is-callable"
                 }
             }
         },
@@ -919,40 +1011,6 @@
                 "description": "A Symfony 1.x Admin Generator Theme.",
                 "support": {
                     "source": "https://github.com/UseAllFive/ua5AdminThemePlugin/tree/add_value_config_option",
-                    "issues": "https://github.com/UseAllFive/ua5AdminThemePlugin/issues"
-                }
-            },
-            "dev-invalid-json-check": {
-                "name": "useallfive/admin-theme-plugin",
-                "version": "dev-invalid-json-check",
-                "version_normalized": "dev-invalid-json-check",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/UseAllFive/ua5AdminThemePlugin.git",
-                    "reference": "618901f291e5e0725c21f6506ecba8f48ab65066"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/UseAllFive/ua5AdminThemePlugin/zipball/618901f291e5e0725c21f6506ecba8f48ab65066",
-                    "reference": "618901f291e5e0725c21f6506ecba8f48ab65066",
-                    "shasum": ""
-                },
-                "require": {
-                    "composer/installers": "1.x",
-                    "symfony/sf-task-extra-plugin": "dev-master",
-                    "symfony/sf-thumbnail-plugin": "dev-master"
-                },
-                "time": "2013-09-12 07:01:45",
-                "type": "symfony1-plugin",
-                "extra": {
-                    "installer-name": "ua5AdminThemePlugin"
-                },
-                "license": [
-                    "MIT"
-                ],
-                "description": "A Symfony 1.x Admin Generator Theme.",
-                "support": {
-                    "source": "https://github.com/UseAllFive/ua5AdminThemePlugin/tree/invalid-json-check",
                     "issues": "https://github.com/UseAllFive/ua5AdminThemePlugin/issues"
                 }
             },
