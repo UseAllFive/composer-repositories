@@ -521,12 +521,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/composer/installers.git",
-                    "reference": "46085247845046fadfdbf1b3d8ac851fa90a48d5"
+                    "reference": "d792632d27e1980d921cbbba12eab7b888338d4c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/composer/installers/zipball/46085247845046fadfdbf1b3d8ac851fa90a48d5",
-                    "reference": "46085247845046fadfdbf1b3d8ac851fa90a48d5",
+                    "url": "https://api.github.com/repos/composer/installers/zipball/d792632d27e1980d921cbbba12eab7b888338d4c",
+                    "reference": "d792632d27e1980d921cbbba12eab7b888338d4c",
                     "shasum": ""
                 },
                 "replace": {
@@ -536,7 +536,7 @@
                     "composer/composer": "1.0.*@dev",
                     "phpunit/phpunit": "3.7.*"
                 },
-                "time": "2013-10-11 03:22:56",
+                "time": "2013-10-24 16:13:49",
                 "type": "composer-installer",
                 "extra": {
                     "class": "Composer\\Installers\\Installer",
@@ -568,6 +568,7 @@
                     "agl",
                     "cakephp",
                     "codeigniter",
+                    "concrete5",
                     "drupal",
                     "fuelphp",
                     "installer",
@@ -658,19 +659,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UseAllFive/Swiftmailer-Transport--AWS-SES.git",
-                    "reference": "ecdf9ec440d43ff6b58baa0226a5aeac6fb7fb8b"
+                    "reference": "0c821e3ccf9af27b10efbd7570e3ad47851f30f8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UseAllFive/Swiftmailer-Transport--AWS-SES/zipball/ecdf9ec440d43ff6b58baa0226a5aeac6fb7fb8b",
-                    "reference": "ecdf9ec440d43ff6b58baa0226a5aeac6fb7fb8b",
+                    "url": "https://api.github.com/repos/UseAllFive/Swiftmailer-Transport--AWS-SES/zipball/0c821e3ccf9af27b10efbd7570e3ad47851f30f8",
+                    "reference": "0c821e3ccf9af27b10efbd7570e3ad47851f30f8",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.2.0",
                     "swiftmailer/swiftmailer": "4.*"
                 },
-                "time": "2012-11-10 23:25:30",
+                "time": "2013-10-18 23:04:46",
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -851,6 +852,22 @@
                 "extra": {
                     "installer-name": "m14tStorageEnginePlugin"
                 }
+            }
+        },
+        "symfony/sf-doctrine-act-as-taggable-plugin": {
+            "dev-master": {
+                "name": "symfony/sf-doctrine-act-as-taggable-plugin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "svn",
+                    "url": "http://svn.symfony-project.com/plugins/sfDoctrineActAsTaggablePlugin/",
+                    "reference": "trunk"
+                },
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "type": "symfony1-plugin"
             }
         },
         "symfony/sf-doctrine-guard-plugin": {
