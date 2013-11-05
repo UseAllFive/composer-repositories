@@ -137,6 +137,22 @@
         {
             "type": "package",
             "package": {
+                "name": "symfony/sf-doctrine-act-as-taggable-plugin",
+                "require": {
+                    "composer/installers": "1.x"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "http://svn.symfony-project.com/plugins/sfDoctrineActAsTaggablePlugin/",
+                    "reference": "trunk"
+                },
+                "type": "symfony1-plugin",
+                "version": "dev-master"
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "symfony/symfony1",
                 "version": "1.4.18",
                 "dist": {
