@@ -142,8 +142,8 @@
                     "composer/installers": "1.x"
                 },
                 "source": {
-                    "type": "svn",
-                    "url": "http://svn.symfony-project.com/plugins/sfDoctrineActAsTaggablePlugin/",
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/sfDoctrineActAsTaggablePlugin.git",
                     "reference": "trunk"
                 },
                 "type": "symfony1-plugin",
