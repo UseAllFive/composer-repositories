@@ -939,7 +939,7 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UseAllFive/sfDoctrineActAsTaggablePlugin.git",
-                    "reference": "trunk"
+                    "reference": "master"
                 },
                 "require": {
                     "composer/installers": "1.x"
