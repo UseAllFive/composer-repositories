@@ -587,7 +587,7 @@
                     "zend"
                 ],
                 "support": {
-                    "source": "https://github.com/composer/installers/tree/master",
+                    "source": "https://github.com/composer/installers/tree/v1.0.7",
                     "issues": "https://github.com/composer/installers/issues"
                 }
             },
@@ -598,12 +598,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/composer/installers.git",
-                    "reference": "d792632d27e1980d921cbbba12eab7b888338d4c"
+                    "reference": "a4b0baa2929e0238a87cb080c0ee9963c5747fb1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/composer/installers/zipball/d792632d27e1980d921cbbba12eab7b888338d4c",
-                    "reference": "d792632d27e1980d921cbbba12eab7b888338d4c",
+                    "url": "https://api.github.com/repos/composer/installers/zipball/a4b0baa2929e0238a87cb080c0ee9963c5747fb1",
+                    "reference": "a4b0baa2929e0238a87cb080c0ee9963c5747fb1",
                     "shasum": ""
                 },
                 "replace": {
@@ -613,7 +613,7 @@
                     "composer/composer": "1.0.*@dev",
                     "phpunit/phpunit": "3.7.*"
                 },
-                "time": "2013-10-24 16:13:49",
+                "time": "2013-12-07 19:47:46",
                 "type": "composer-installer",
                 "extra": {
                     "class": "Composer\\Installers\\Installer",
@@ -928,6 +928,129 @@
                 "type": "symfony1-plugin",
                 "extra": {
                     "installer-name": "m14tStorageEnginePlugin"
+                }
+            }
+        },
+        "swearjar/swearjar": {
+            "v0.1.0": {
+                "name": "swearjar/swearjar",
+                "version": "v0.1.0",
+                "version_normalized": "0.1.0.0",
+                "target-dir": "swearjar",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/swearjar-php.git",
+                    "reference": "d5dfccff50427111fa96dfc94eeb99af76ed14ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/swearjar-php/zipball/d5dfccff50427111fa96dfc94eeb99af76ed14ab",
+                    "reference": "d5dfccff50427111fa96dfc94eeb99af76ed14ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/yaml": "2.0.*"
+                },
+                "time": "2012-04-09 00:55:49",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "swearjar": "libraries/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ramon Torres",
+                        "email": "raymondjavaxx@gmail.com"
+                    }
+                ],
+                "description": "Profanity detection lib",
+                "homepage": "http://github.com/raymondjavaxx/swearjar-php",
+                "support": {
+                    "source": "https://github.com/UseAllFive/swearjar-php/tree/v0.1.0"
+                }
+            },
+            "v0.1.1": {
+                "name": "swearjar/swearjar",
+                "version": "v0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/swearjar-php.git",
+                    "reference": "644a6ec1b04de9b78aced7008e3b4d46596eb358"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/swearjar-php/zipball/644a6ec1b04de9b78aced7008e3b4d46596eb358",
+                    "reference": "644a6ec1b04de9b78aced7008e3b4d46596eb358",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/yaml": "2.0.*"
+                },
+                "time": "2012-10-10 04:16:40",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "swearjar": "libraries/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ramon Torres",
+                        "email": "raymondjavaxx@gmail.com"
+                    }
+                ],
+                "description": "Profanity detection lib",
+                "homepage": "http://github.com/raymondjavaxx/swearjar-php",
+                "support": {
+                    "source": "https://github.com/UseAllFive/swearjar-php/tree/v0.1.1"
+                }
+            },
+            "dev-master": {
+                "name": "swearjar/swearjar",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/swearjar-php.git",
+                    "reference": "936454f7f05a6351c73f214283eeb2025700d07b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/swearjar-php/zipball/936454f7f05a6351c73f214283eeb2025700d07b",
+                    "reference": "936454f7f05a6351c73f214283eeb2025700d07b",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/yaml": "~2.3"
+                },
+                "time": "2013-12-17 16:08:30",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "swearjar": "libraries/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ramon Torres",
+                        "email": "raymondjavaxx@gmail.com"
+                    }
+                ],
+                "description": "Profanity detection lib",
+                "homepage": "http://github.com/raymondjavaxx/swearjar-php",
+                "support": {
+                    "source": "https://github.com/UseAllFive/swearjar-php/tree/master"
                 }
             }
         },

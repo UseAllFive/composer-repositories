@@ -11,6 +11,10 @@
             "url": "https://github.com/UseAllFive/Swiftmailer-Transport--AWS-SES"
         },
         {
+            "type": "vcs",
+            "url": "https://github.com/UseAllFive/swearjar-php"
+        },
+        {
             "type": "package",
             "package": {
                 "name": "google/google-api-php-client",
