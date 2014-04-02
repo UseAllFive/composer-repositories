@@ -12,6 +12,10 @@
         },
         {
             "type": "vcs",
+            "url": "https://github.com/UseAllFive/acf-repeater"
+        },
+        {
+            "type": "vcs",
             "url": "https://github.com/UseAllFive/swearjar-php"
         },
         {
