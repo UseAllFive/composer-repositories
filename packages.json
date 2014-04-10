@@ -1777,6 +1777,34 @@
                 "type": "symfony1-plugin"
             }
         },
+        "useallfive/ninja-forms": {
+            "dev-master": {
+                "name": "useallfive/ninja-forms",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UseAllFive/ninja-forms.git",
+                    "reference": "719080c53d25c7f97c4a72b8f1f1398fca1937a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/ninja-forms/zipball/719080c53d25c7f97c4a72b8f1f1398fca1937a1",
+                    "reference": "719080c53d25c7f97c4a72b8f1f1398fca1937a1",
+                    "shasum": ""
+                },
+                "time": "2014-04-10 21:44:17",
+                "type": "wordpress-plugin",
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Ninja Forms",
+                "homepage": "https://github.com/UseAllFive/ninja-forms",
+                "support": {
+                    "source": "https://github.com/UseAllFive/ninja-forms/tree/master"
+                }
+            }
+        },
         "UseAllFive/sf-s3-plugin": {
             "dev-master": {
                 "name": "UseAllFive/sf-s3-plugin",
