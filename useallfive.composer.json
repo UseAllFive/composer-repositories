@@ -20,6 +20,10 @@
         },
         {
             "type": "vcs",
+            "url": "https://github.com/UseAllFive/ninja-forms-uploads"
+        },
+        {
+            "type": "vcs",
             "url": "https://github.com/UseAllFive/swearjar-php"
         },
         {

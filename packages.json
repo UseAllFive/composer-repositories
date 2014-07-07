@@ -1805,6 +1805,35 @@
                 }
             }
         },
+        "useallfive/ninja-forms-uploads": {
+            "dev-master": {
+                "name": "useallfive/ninja-forms-uploads",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:UseAllFive/ninja-forms-uploads.git",
+                    "reference": "c3ebaded1a69d7aa88d8a679869facd7ad45d161"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/ninja-forms-uploads/zipball/c3ebaded1a69d7aa88d8a679869facd7ad45d161",
+                    "reference": "c3ebaded1a69d7aa88d8a679869facd7ad45d161",
+                    "shasum": ""
+                },
+                "time": "2014-07-07 21:56:51",
+                "type": "wordpress-plugin",
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Ninja Forms Uploads",
+                "homepage": "https://github.com/UseAllFive/ninja-forms-uploads",
+                "support": {
+                    "source": "https://github.com/UseAllFive/ninja-forms-uploads/tree/master",
+                    "issues": "https://github.com/UseAllFive/ninja-forms-uploads/issues"
+                }
+            }
+        },
         "UseAllFive/sf-s3-plugin": {
             "dev-master": {
                 "name": "UseAllFive/sf-s3-plugin",
