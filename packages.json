@@ -1900,6 +1900,35 @@
                 }
             }
         },
+        "useallfive/rss-includes-pages-pro": {
+            "dev-master": {
+                "name": "useallfive/rss-includes-pages-pro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:UseAllFive/rss-includes-pages-pro.git",
+                    "reference": "3dd9be3005b71a766dd25281d7f534911ba5aa5d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UseAllFive/rss-includes-pages-pro/zipball/3dd9be3005b71a766dd25281d7f534911ba5aa5d",
+                    "reference": "3dd9be3005b71a766dd25281d7f534911ba5aa5d",
+                    "shasum": ""
+                },
+                "time": "2014-04-02 00:18:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "proprietary"
+                ],
+                "description": "rss-includes-pages-pro",
+                "homepage": "https://github.com/UseAllFive/rss-includes-pages-pro",
+                "support": {
+                    "source": "https://github.com/UseAllFive/rss-includes-pages-pro/tree/master",
+                    "issues": "https://github.com/UseAllFive/rss-includes-pages-pro/issues"
+                }
+            }
+        },
         "useallfive/admin-theme-plugin": {
             "dev-master": {
                 "name": "useallfive/admin-theme-plugin",

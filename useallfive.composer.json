@@ -16,6 +16,10 @@
         },
         {
             "type": "vcs",
+            "url": "https://github.com/UseAllFive/rss-includes-pages-pro"
+        },
+        {
+            "type": "vcs",
             "url": "https://github.com/UseAllFive/ninja-forms"
         },
         {
